@@ -1,0 +1,102 @@
+[
+    {
+        "book_id": "B101",
+        "title": "Python Programming",
+        "author": "Reema Thareja",
+        "category": "Programming",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B102",
+        "title": "Let Us C",
+        "author": "Yashavant Kanetkar",
+        "category": "Programming",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B103",
+        "title": "Data Structures Using C",
+        "author": "Reema Thareja",
+        "category": "Computer Science",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B104",
+        "title": "Database System Concepts",
+        "author": "Abraham Silberschatz",
+        "category": "Database",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B105",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Software Engineering",
+        "status": "Issued",
+        "borrower": "Library Management system",
+        "issue_date": "2026-10-28",
+        "due_date": "2026-11-11"
+    },
+    {
+        "book_id": "B106",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Fiction",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B107",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "category": "Finance",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B108",
+        "title": "Artificial Intelligence",
+        "author": "Stuart Russell",
+        "category": "Computer Science",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B109",
+        "title": "Head First Java",
+        "author": "Kathy Sierra",
+        "category": "Programming",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    },
+    {
+        "book_id": "B110",
+        "title": "Operating System Concepts",
+        "author": "Abraham Silberschatz",
+        "category": "Computer Science",
+        "status": "Available",
+        "borrower": "",
+        "issue_date": "",
+        "due_date": ""
+    }
+]

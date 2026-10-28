@@ -1,0 +1,4 @@
+Date and Time,Action,Book ID,Title,Borrower
+2026-10-23 11:57:30,Added,"vbnm,",vvgbn,
+2026-10-23 12:04:41,Deleted,"vbnm,",vvgbn,
+2026-10-28,20:09:20,Issued,B105,Clean Code,Borrower: Library Management system
